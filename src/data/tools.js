@@ -3,7 +3,7 @@ export const tools = [
     id: 'languages',
     title: 'Languages',
     meta: 'Daily Drivers',
-    review: 'JavaScript / TypeScript · Python · Go · SQL',
+    review: 'JavaScript / TypeScript · Python · Go · C# · SQL',
   },
   {
     id: 'ai-ides-editors',
@@ -21,6 +21,6 @@ export const tools = [
     id: 'frameworks-infra',
     title: 'Frameworks & Infrastructure',
     meta: 'Stack & Tooling',
-    review: 'React · Next.js · Node.js · PostgreSQL · Docker · Git',
+    review: 'React · Next.js · Node.js · ASP.NET Core · PostgreSQL · Docker · Git',
   },
 ];
