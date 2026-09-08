@@ -28,6 +28,7 @@ export default function About() {
             <p className="label">//FOCUS//</p>
             <ul>
               <li>love building consumer SaaS, edtech, and finance tools</li>
+              <li>building home-cooked software on weekends</li>
             </ul>
           </div>
         </div>
